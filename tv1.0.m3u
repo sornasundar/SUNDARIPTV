@@ -20,6 +20,25 @@ http://watchindia.net:8880/live/60275/20486/845.ts
 http://178.79.161.66/woh/index.m3u8?id=48014
 #EXTINF:-1 tvg-id="1sports.in" tvg-name="KTV HD" tvg-logo="https://watchindia.net/images/channels/tamil/KTV_HD.png" group-title="Tamil",KTV HD
 http://tvflixst.ddns.net/woh/index.m3u8?id=48014
+#EXTINF:-1 tvg-id="zee.tamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
+http://watchindia.net:8880/live/60275/20486/887.ts
+#EXTINF:-1 tvg-id="zee.tamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
+http://178.79.161.66/woh/index.m3u8?id=48032
+#EXTINF:-1 tvg-id="zee.tamil.in" tvg-name="Zee Tamil" tvg-logo="https://watchindia.net/images/channels/tamil/Zee.png" group-title="Tamil",Zee Tamil
+http://tvflixst.ddns.net/woh/index.m3u8?id=48032
+#EXTINF: -1 tvg-id="0-9-zeetamil" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetamil/list/386x386/09zeetamilzeetamil.png" group-title=" Zee5",Zee Tamil
+https://s1z.rftv.xyz/token5675464367/0-9-zeetamil
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://watchindia.net:8880/live/60275/20486/844.ts
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://tvflixst.ddns.net/woh/index.m3u8?id=48013
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://178.79.161.66/woh/index.m3u8?id=48013
+#EXTINF:-1 tvg-id="sunmusichd.in" tvg-name="Sun Music HD" tvg-logo="https://watchindia.net/images/channels/tamil/Sun_Music_HD.png" group-title="Tamil",Sun Music HD
+http://uk1.zecast.com:1935/star-live/smusic/chunklist_w303707639.m3u8
+
+
+
 
 
 
